@@ -17,8 +17,8 @@
         <java.version>17</java.version>
         <maven.compiler.target>16</maven.compiler.target>
         <maven.compiler.source>16</maven.compiler.source>
-        <org.mapstruct.version>1.5.0.Final</org.mapstruct.version>
-        <org.projectlombok.version>1.18.22</org.projectlombok.version>
+        <org.mapstruct.version>1.6.3</org.mapstruct.version>
+        <org.projectlombok.version>1.18.42</org.projectlombok.version>
     </properties>
     <dependencies>
         <dependency>
