@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/java_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/spring_boot_3.1-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Maven](https://img.shields.io/badge/maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
-![MapStruct](https://img.shields.io/badge/mapstruct_1.5-%23E3262A.svg?style=for-the-badge&logoColor=white)
+![MapStruct](https://img.shields.io/badge/mapstruct_1.6-%23E3262A.svg?style=for-the-badge&logoColor=white)
 ![Lombok](https://img.shields.io/badge/lombok-%23BC4521.svg?style=for-the-badge&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![H2](https://img.shields.io/badge/h2-%230B5FA5.svg?style=for-the-badge&logoColor=white)
@@ -22,11 +22,11 @@ Projeto de estudo que usa **MapStruct** para converter entidades JPA em DTOs (e 
 
 - Java 17
 - Spring Boot 3.1.1 (Web, Data JPA)
-- MapStruct 1.5.0 e Lombok 1.18.34
+- MapStruct 1.6.3 e Lombok 1.18.42
 - H2 e PostgreSQL (drivers incluídos)
 - Maven
 
-O estudo é de 2023 (Boot e MapStruct ficaram nas versões da época); só o Lombok foi atualizado, para compilar também no JDK 21.
+O estudo é de 2023 e o Spring Boot ficou na versão da época. O MapStruct e o Lombok foram atualizados porque as versões originais não compilam em JDKs recentes; testado no JDK 25.
 
 ## Estrutura
 
